@@ -1,0 +1,1 @@
+package cn.margin.jz.module.crm.framework.permission.core;

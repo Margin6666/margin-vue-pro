@@ -1,0 +1,3 @@
+cn.margin.jz.framework.security.config.MarginSecurityAutoConfiguration
+cn.margin.jz.framework.security.config.MarginWebSecurityConfigurerAdapter
+cn.margin.jz.framework.operatelog.config.MarginOperateLogV2Configuration

@@ -1,0 +1,2 @@
+cn.margin.jz.framework.idempotent.config.MarginIdempotentConfiguration
+cn.margin.jz.framework.lock4j.config.MarginLock4jConfiguration

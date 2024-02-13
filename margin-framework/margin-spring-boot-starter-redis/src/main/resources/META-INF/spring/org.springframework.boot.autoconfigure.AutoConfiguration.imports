@@ -1,0 +1,2 @@
+cn.margin.jz.framework.redis.config.MarginRedisAutoConfiguration
+cn.margin.jz.framework.redis.config.MarginCacheAutoConfiguration

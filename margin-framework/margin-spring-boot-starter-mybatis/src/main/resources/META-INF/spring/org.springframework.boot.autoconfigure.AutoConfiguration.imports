@@ -1,0 +1,2 @@
+cn.margin.jz.framework.datasource.config.MarginDataSourceAutoConfiguration
+cn.margin.jz.framework.mybatis.config.MarginMybatisAutoConfiguration

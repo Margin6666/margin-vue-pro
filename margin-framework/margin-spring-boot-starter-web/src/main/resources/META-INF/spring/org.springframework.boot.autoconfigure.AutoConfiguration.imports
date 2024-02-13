@@ -1,0 +1,7 @@
+cn.margin.jz.framework.apilog.config.MarginApiLogAutoConfiguration
+cn.margin.jz.framework.jackson.config.MarginJacksonAutoConfiguration
+cn.margin.jz.framework.swagger.config.MarginSwaggerAutoConfiguration
+cn.margin.jz.framework.web.config.MarginWebAutoConfiguration
+cn.margin.jz.framework.xss.config.MarginXssAutoConfiguration
+cn.margin.jz.framework.banner.config.MarginBannerAutoConfiguration
+cn.margin.jz.framework.errorcode.config.MarginErrorCodeAutoConfiguration

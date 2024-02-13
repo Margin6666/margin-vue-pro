@@ -1,0 +1,2 @@
+cn.margin.jz.framework.tracer.config.MarginTracerAutoConfiguration
+cn.margin.jz.framework.tracer.config.MarginMetricsAutoConfiguration

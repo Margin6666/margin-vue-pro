@@ -1,0 +1,3 @@
+cn.margin.jz.framework.mq.redis.config.MarginRedisMQProducerAutoConfiguration
+cn.margin.jz.framework.mq.redis.config.MarginRedisMQConsumerAutoConfiguration
+cn.margin.jz.framework.mq.rabbitmq.config.MarginRabbitMQAutoConfiguration
